@@ -4,5 +4,6 @@
     "project_description": "add an app to find new sui transactions",
     "creation_time": "2024-08-06 13:43:10.419453",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The website uses a dark-themed color scheme with deep navy blues, purples, and vibrant gradients to accentuate sections, accompanied by white text for contrast and readability. The style features modern, minimalistic design elements with smooth gradients, rounded buttons, and subtle animations."
 }
